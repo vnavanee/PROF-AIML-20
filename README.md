@@ -29,7 +29,10 @@ The model developed is a decision tree algorithm-based model that can be used to
 
 As we collect more data with this model, there is a good chance that the model will improve. As the data continues increase, we would run the various classifiers again to pick the best model.
 
-The project and the code can be found here
+
+#### Outline of project
+
+[The project and the code can be found here]( https://github.com/vnavanee/PROF-AIML-20)
 
 ##### Contact 
 
