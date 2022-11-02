@@ -6,10 +6,12 @@
 
 Indigenous Pima women have a higher rate of incidence of diabetes and predicting this disease early on would help treat the disease effectively thereby preventing or delaying the complications of the disease. Different classifiers were used to select a model that would accurately predict the onset of diabetes in these women and the best one was selected. The selected algorithm can be used to predict the developing diabetes within 5 years with good confidence.
 
+#
+
 #### Rationale
 Predicting the disease early would prevent complications of the disease and thereby affording a good quality of life for the patient. Healthcare costs in general would be lower with early prediction and care.
-#
-### Research Question
+
+#### Research Question
 
 To identify Pima Indigenous women who are at a high risk of developing diabetes mellitus within the next five years.
 
